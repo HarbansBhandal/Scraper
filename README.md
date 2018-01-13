@@ -6,6 +6,4 @@ The app uses Node, Express server, Handlebars for view generation, MongoDB datab
 
 ***
 
-Please click below to watch video runthrough:
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=vMEF50DM3CE" target="_blank"><img src="http://img.youtube.com/vi/vMEF50DM3CE/0.jpg" alt="Video Runthrough" width="480" height="360" border="10" /></a>
