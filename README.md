@@ -1,4 +1,4 @@
-# Scrapr
+# Scraper
 
 Scraper is a full stack web scraper app that scrapes https://www.reddit.com/r/WTF/ for the latest posts. Then it allows the user to make and save notes on any of the posts that have been scraped. 
 
